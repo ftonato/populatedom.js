@@ -1,0 +1,34 @@
+{
+  "name": "populatedom.js",
+  "version": "1.0.0",
+  "description": "https://github.com/ftonato/populatedom.js",
+  "homepage": "https://github.com/ftonato/populatedom.js",
+  "main": "populatedom.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ftonato/populatedom.js"
+  },
+  "keywords": [
+    "form",
+    "json",
+    "es6",
+    "es2015"
+  ],
+  "author": "Ademílson F. Tonato <ademilsonft@outlook.com>",
+  "contributors": [
+    "Ult Combo <ultcombo@gmail.com>"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ftonato/populatedom.js/issues"
+  },
+  "devDependencies": {
+    "babel-core": "^6.1.4",
+    "babel-loader": "^6.1.0",
+    "babel-preset-es2015": "^6.1.4",
+    "webpack": "^1.12.4"
+  },
+  "scripts": {
+    "dev": "webpack --watch"
+  }
+}
