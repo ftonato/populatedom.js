@@ -48,7 +48,7 @@ See more in [example.html](./example.html)
 See the [Contributing guide](./CONTRIBUTING.md).
 
 ## Contributors
-See the awesome [contributors](./CONTRIBUTING.md).
+See the awesome [contributors](./CONTRIBUTORS.md).
 
 ## License
 MIT licensed.
